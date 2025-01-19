@@ -88,6 +88,8 @@ Ensure you have the following installed on your system:
 - Ensure you are online while fetching data from the DummyJSON API.
 - Modify the API endpoint in `services/api.ts` if a local or different API is required.
 
+---
+
 
  # DPS Frontend Coding Challenge Is As Follows:👇
 
@@ -102,7 +104,6 @@ To set up and run the application, execute the following commands:
 
 ```
 npm install
-npm install bootstrap@v5.3.3
 npm run dev
 ```
 
