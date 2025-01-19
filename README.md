@@ -34,15 +34,18 @@ Ensure you have the following installed on your system:
    git clone https://github.com/Abdulwarissherzad/dps-react-challenge.git
    cd dps-react-challenge
    ```
-2. Install dependencies:
+2. Environment Setup and Install dependencies:
+   Ensure you have Node.js (v14.x or later) and npm (v6.x or later) installed.
+   
    ```
+   npm install
    npm install bootstrap@v5.3.3
    ```
-3. Start the development server:
+4. Start the development server:
    ```
    npm run dev
    ```
-4. Open the application in your browser at:  
+5. Open the application in your browser at:  
    [http://localhost:3000](http://localhost:3000)
 
 
