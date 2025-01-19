@@ -4,7 +4,6 @@
 ## Overview
 This project is a solution to the **DPS Frontend Coding Challenge**, which involves enhancing a CRM (Customer Relationship Management) software by developing a feature to display and filter customer data effectively. The application is built using **TypeScript** and **React**.
 
----
 
 ## Features
 ### Implemented Features:
@@ -23,7 +22,6 @@ This project is a solution to the **DPS Frontend Coding Challenge**, which invol
 5. **Responsive Design**  
    - UI designed to match the provided mockup and is optimized for various screen sizes.
 
----
 
 ## Environment Setup
 Ensure you have the following installed on your system:
@@ -47,7 +45,6 @@ Ensure you have the following installed on your system:
 4. Open the application in your browser at:  
    [http://localhost:3000](http://localhost:3000)
 
----
 
 ## Usage
 - **Search by Name**:  
@@ -62,23 +59,20 @@ Ensure you have the following installed on your system:
 - **Debounced Search**:  
   Enjoy a smoother search experience with a 1-second delay before the filter action occurs.
 
----
 
 ## Technology Stack
 - **Frontend**: React, TypeScript
 - **Styling**: CSS/SCSS, Bootstrap 
 - **Data Source**: [DummyJSON API](https://dummyjson.com/users)
 
----
 
 ## Project Context
 
-  Below is the prototype of the application, which demonstrates the key features of the CRM customer management tool. The interface is designed to be user-friendly and matches the mockup provided in the challenge.
+ Below is the prototype of the application, which demonstrates the key features of the CRM customer management tool. The interface is designed to be user-friendly and matches the mockup provided in the challenge.
 
 
-![Prototype](images/Prototype.png)
+ ![Prototype](images/Prototype.png)
 
----
 
 ## Challenges and Solutions
 ### **1. Debounced Search**  
@@ -89,15 +83,13 @@ Ensure you have the following installed on your system:
    **Challenge**: Efficiently find and highlight the oldest user in each city.  
    **Solution**: Used `reduce` to identify the oldest user based on their age field for each city.
 
----
 
 ## Installation Notes
 - Ensure you are online while fetching data from the DummyJSON API.
 - Modify the API endpoint in `services/api.ts` if a local or different API is required.
 
----
 
- # DPS Frontend Coding Challenge Is As Follow:👇
+ # DPS Frontend Coding Challenge Is As Follows:👇
 
 ## Overview
 
@@ -122,7 +114,7 @@ You will be enhancing a new CRM (Customer Relationship Management) software aime
 
 Refer to the attached mockup image to guide your UI development 👇
 
-![Mockup](images/mockup.png)
+   ![Mockup](images/mockup.png)
 
 ## Challenge Tasks
 
