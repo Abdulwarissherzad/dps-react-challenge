@@ -11,6 +11,7 @@ To set up and run the application, execute the following commands:
 
 ```
 npm install
+npm install bootstrap@v5.3.3
 npm run dev
 ```
 
