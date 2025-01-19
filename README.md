@@ -83,11 +83,6 @@ Ensure you have the following installed on your system:
    **Challenge**: Efficiently find and highlight the oldest user in each city.  
    **Solution**: Used `reduce` to identify the oldest user based on their age field for each city.
 
-
-## Installation Notes
-- Ensure you are online while fetching data from the DummyJSON API.
-- Modify the API endpoint in `services/api.ts` if a local or different API is required.
-
 ---
 
 
